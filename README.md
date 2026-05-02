@@ -574,16 +574,6 @@ recommandation générale. Rédigé pour un lecteur non technique.]
 
 ---
 
-## Checklist de fin de séance
-
-- [ ] Rapport d'audit finalisé et sauvegardé (`rapport_audit_final.md`)
-- [ ] Rapport MobSF exporté et archivé
-- [ ] Journal de session complété
-- [ ] Répertoire de travail organisé
-- [ ] VM arrêtée proprement
-
----
-
 ## Résolution des problèmes courants
 
 | Problème | Cause probable | Solution |
